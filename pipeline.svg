@@ -13,8 +13,8 @@
    height="531.79626"
    id="svg4789"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="drawing-1.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pipeline.svg">
   <defs
      id="defs4791">
     <marker
@@ -355,15 +355,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="187.43773"
-     inkscape:cy="280.90414"
+     inkscape:zoom="1.979899"
+     inkscape:cx="96.195082"
+     inkscape:cy="208.88048"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
+     inkscape:window-width="1547"
+     inkscape:window-height="876"
+     inkscape:window-x="53"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="0.1"
@@ -378,7 +378,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -445,14 +445,14 @@
          x="118.54911"
          y="501.12311">y</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5007);display:inline"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5007)"
        d="m 82.384137,560.85502 99.285733,0"
        id="path4417"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5143);display:inline"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5143)"
        d="m 89.529047,616.27816 85.000013,0.71429"
        id="path4421"
        inkscape:connector-type="polyline"
@@ -504,7 +504,7 @@
          y="610.19586">T1.transform(X)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="50.761936"
        y="732.5296"
        id="text3350-7"
@@ -513,7 +513,7 @@
          id="tspan3352-7"
          x="50.761936"
          y="732.5296"
-         style="font-size:25px">pipe.predict(X)</tspan></text>
+         style="font-size:25px">pipe.predict(X')</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:sans-serif;-inkscape-font-specification:sans-serif"
@@ -730,7 +730,7 @@
            sodipodi:role="line">Classifier</tspan></text>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5143-0);display:inline"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5143-0)"
        d="m 83.812717,794.07033 96.428583,0"
        id="path4421-5"
        inkscape:connector-type="polyline"
@@ -738,7 +738,7 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:12.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="83.799721"
        y="779.78461"
        id="text4463-31"
@@ -746,7 +746,7 @@
          sodipodi:role="line"
          id="tspan4465-9"
          x="83.799721"
-         y="779.78461">T1.transform(X)</tspan></text>
+         y="779.78461">T1.transform(X')</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:sans-serif;-inkscape-font-specification:sans-serif"
@@ -759,14 +759,14 @@
          y="806.62531"
          id="tspan4344-5-0-0">X'1</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5143-9-1);display:inline"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5143-9-1)"
        d="m 273.16321,793.33958 85,0.71429"
        id="path4421-4-5"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:12.5px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="259.59171"
        y="779.62531"
        id="text4463-0-1"
@@ -774,7 +774,7 @@
          sodipodi:role="line"
          id="tspan4465-2-4"
          x="259.59171"
-         y="779.62531">T2.transform(X1)</tspan></text>
+         y="779.62531">T2.transform(X'1)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:sans-serif;-inkscape-font-specification:sans-serif"
@@ -839,5 +839,16 @@
          x="54.597691"
          y="299.97345"
          style="font-size:25px">pipe = make_pipeline(T1(), T2(), Classifier())</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="176.4818"
+       y="777.82532"
+       id="text4390"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4392"
+         x="176.4818"
+         y="777.82532" /></text>
   </g>
 </svg>
