@@ -17,8 +17,8 @@
    sodipodi:docname="gridsearch_workflow.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    inkscape:export-filename="/home/andy/checkout/figures/gridsearch_workflow.png"
-   inkscape:export-xdpi="299.85999"
-   inkscape:export-ydpi="299.85999">
+   inkscape:export-xdpi="299.92575"
+   inkscape:export-ydpi="299.92575">
   <defs
      id="defs2">
     <marker
@@ -264,6 +264,36 @@
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path1695-0" />
     </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1627-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1625-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1627-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1625-3"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -273,15 +303,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="206.80738"
-     inkscape:cy="255.08001"
+     inkscape:cx="206.74708"
+     inkscape:cy="226.49353"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1843"
-     inkscape:window-height="1025"
+     inkscape:window-height="1172"
      inkscape:window-x="77"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -295,7 +325,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -304,6 +334,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-14.717718,-85.437022)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.06500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1627-5)"
+       d="M 77.276049,126.50342 64.8649,126.30943"
+       id="path961-5"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0" />
     <g
        id="g914"
        transform="translate(-7.4393236,-1.398395)">
@@ -494,7 +530,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="display:none;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.06500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1563)"
-       d="M 76.45701,126.8483 64.633929,126.72173"
+       d="M 76.45701,126.84831 64.633929,126.72173"
        id="path957"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
